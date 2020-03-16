@@ -10,7 +10,7 @@
 ### 安装
 ```sh
 git clone https://github.com/lijiaxing1997/Gr33k.git
-cd Gr33k-master
+cd Gr33k
 pip3 install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 ```
 上述安装您将直接获得本工具的源代码，推荐这种安装方式，但因本工具为图形化工具考虑到实用性以及简单性，大家可以自行构建自己的可执行程序，推荐使用Pyinstaller。  
