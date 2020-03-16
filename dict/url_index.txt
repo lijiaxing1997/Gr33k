@@ -1,4 +1,5 @@
 #脚本识别
+/webjsevent
 /robots.txt
 /index.htm
 /index.html

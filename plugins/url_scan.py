@@ -7,7 +7,6 @@ import plugins.config
 import requests
 
 
-
 class UrlScan(QThread):
 
     str_signal = pyqtSignal([str,str])
@@ -52,7 +51,8 @@ class UrlScan(QThread):
                 part_url = self.Queue.get()
                 try:
                     res = requests.get(url=self.url + part_url,headers=self.header,timeout=5)
-                except:
+                except Exception as err:
+                    print(err)
                     continue
                 if self.ignore_s == '':
                     if res.status_code == 200 or res.status_code == 302:
