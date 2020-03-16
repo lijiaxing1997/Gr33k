@@ -33,7 +33,7 @@ matplotlib==3.1.1
 more-itertools==7.2.0
 Naked==0.1.31
 netaddr==0.7.19
-nltk==3.4.4
+nltk==3.4.5
 nmap==0.0.1
 numpy==1.16.4
 openpyxl==2.6.3
