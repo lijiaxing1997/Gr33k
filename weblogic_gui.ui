@@ -2547,7 +2547,7 @@ struts2-005、struts2-008-1、struts2-008-2、struts2-009、struts2-013、struts
 6、点击表显示列
 7、选择想要查询的数据，使用执行sql语句来查询，会在查询结果处返回结果。
 
---部门功能还未实现，有时间会慢慢优化</string>
+--部分功能还未实现，有时间会慢慢优化</string>
       </property>
      </widget>
      <widget class="QListWidget" name="listWidget_sqlmap_tables">

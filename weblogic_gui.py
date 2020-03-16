@@ -1210,7 +1210,7 @@ class Ui_MainWindow(object):
 "6、点击表显示列\n"
 "7、选择想要查询的数据，使用执行sql语句来查询，会在查询结果处返回结果。\n"
 "\n"
-"--部门功能还未实现，有时间会慢慢优化"))
+"--部分功能还未实现，有时间会慢慢优化"))
         self.label_69.setText(_translate("MainWindow", "系统信息:"))
         self.pushButton_sqlmap_kill.setText(_translate("MainWindow", "终止任务"))
         self.pushButton_sqlmap_export.setText(_translate("MainWindow", "导出结果"))
