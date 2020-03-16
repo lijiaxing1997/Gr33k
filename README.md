@@ -26,5 +26,5 @@ python3 Gr33k.py
 ```
 
 #### 攻击截图如下
-![avatar](icon/exm.png)
+![avatar](../icon/exm.png)
 
