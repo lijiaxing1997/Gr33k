@@ -20,8 +20,8 @@ sudo apt-get install python3-pyqt5
 若您要使用与ysoserial相关的利用程序,请您手动下载,因为默认该文件夹是空的  
 上述安装您将直接获得本工具的源代码，推荐这种安装方式，但因本工具为图形化工具考虑到实用性以及简单性，大家可以自行构建自己的可执行程序，推荐使用Pyinstaller。  
 为了方便，我为windows用户打包了一个可执行程序，因为依赖工具比较大，所以我将它放在了百度云盘上.  
-下载地址：<https://pan.baidu.com/s/1600fZK6bIHjmo5XqN6WuDw>  
- 提取码：irzg  
+下载地址：<https://pan.baidu.com/s/18M5TfcjbemeqQH5zfkbzdA>  
+ 提取码：c7rr 
 ### 目录结构
 - Gr33k.py 是本工具的入口文件。
 - dict 该目录存放了本工具自带的一些字典
