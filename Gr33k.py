@@ -24,7 +24,6 @@ from plugins.slowhttp import Slowhttp
 from plugins.apache_rce import ApacheCve
 from plugins.use_sqlmap import Use_sqlmap
 from plugins.jboss import Jboss
-from gevent import monkey; monkey.patch_ssl()
 from plugins.windows import Windows
 
 class MyWindow(QMainWindow, Ui_MainWindow):
