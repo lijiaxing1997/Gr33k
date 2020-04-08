@@ -24,8 +24,8 @@ from plugins.slowhttp import Slowhttp
 from plugins.apache_rce import ApacheCve
 from plugins.use_sqlmap import Use_sqlmap
 from plugins.jboss import Jboss
-from gevent import monkey; monkey.patch_ssl()
 from plugins.windows import Windows
+from plugins.tomcat import Tomcat_
 
 class MyWindow(QMainWindow, Ui_MainWindow):
     def __init__(self, parent=None):
@@ -87,6 +87,8 @@ class MyWindow(QMainWindow, Ui_MainWindow):
 
     def print_windows_result(self, str, color):
         self.plainTextEdit_windows_result.appendHtml('<span style="color:' + color + ';">' + str + '</span>')
+    def print_tomcat_2020_1938_result(self, str, color):
+        self.plainTextEdit_tomcat_2020_1938_result.appendHtml('<span style="color:' + color + ';">' + str + '</span>')
 
     def load_event(self):
         def weblogic_start_chlicked():
@@ -941,6 +943,59 @@ class MyWindow(QMainWindow, Ui_MainWindow):
 
 
         self.pushButton_windows_scan.clicked.connect(windows_scan_clicked)
+
+        def tomcat_2020_1938_select_file():
+            openfile_name = QFileDialog.getOpenFileName(self, '选择文件', '', 'Excel files(*.txt)')
+            self.lineEdit_tomcat_2020_1938_ip_list.setText(openfile_name[0])
+
+        self.pushButton_tomcat_2020_1938_select_file.clicked.connect(tomcat_2020_1938_select_file)
+
+
+        def tomcat_2020_1938_check_clicked():
+            self.plainTextEdit_tomcat_2020_1938_result.setPlainText("")
+            self.print_tomcat_2020_1938_result("[+] 开始进行漏洞检测...", 'green')
+            ip = self.lineEdit_tomcat_2020_1938_ip.text()
+            ip_list = self.lineEdit_tomcat_2020_1938_ip_list.text()
+            try:
+                port = int(self.lineEdit_tomcat_2020_1938_port.text())
+            except:
+                self.print_tomcat_2020_1938_result("[-] 请输入正确的端口",'red')
+                return
+            if ip != "":
+                tomcat = Tomcat_("CVE-2020-1938",ip,'',port,'check')
+            else:
+                tomcat = Tomcat_("CVE-2020-1938", '', ip_list, port, 'check')
+            tomcat.str_signal.connect(self.print_tomcat_2020_1938_result)
+            tomcat.start()
+            tomcat.exec()
+            tomcat.destroyed()
+
+        self.pushButton_tomcat_2020_1938_check.clicked.connect(tomcat_2020_1938_check_clicked)
+
+        def tomcat_2020_1938_read_file_clicked():
+            self.plainTextEdit_tomcat_2020_1938_result.setPlainText("")
+            self.print_tomcat_2020_1938_result("[+] 开始进行文件读取...", 'green')
+            read_file = self.lineEdit_tomcat_2020_1938_file_path.text()
+            ip = self.lineEdit_tomcat_2020_1938_ip.text()
+            if ip == "":
+                self.print_tomcat_2020_1938_result("[-] ip是必须的", 'red')
+                return
+            try:
+                port = int(self.lineEdit_tomcat_2020_1938_port.text())
+            except:
+                self.print_tomcat_2020_1938_result("[-] 请输入正确的端口",'red')
+                return
+            tomcat = Tomcat_("CVE-2020-1938", ip, '', port, 'read_file',file=read_file)
+            tomcat.str_signal.connect(self.print_tomcat_2020_1938_result)
+            tomcat.start()
+            tomcat.exec()
+            tomcat.destroyed()
+
+
+        self.pushButton_tomcat_2020_1938_read_file.clicked.connect(tomcat_2020_1938_read_file_clicked)
+
+
+
 
 
 

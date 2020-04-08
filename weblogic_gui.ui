@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="currentIndex">
-     <number>11</number>
+     <number>5</number>
     </property>
     <widget class="QWidget" name="tab_15">
      <attribute name="title">
@@ -894,6 +894,190 @@ struts2-005、struts2-008-1、struts2-008-2、struts2-009、struts2-013、struts
       <property name="text">
        <string>文件</string>
       </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_16">
+     <attribute name="title">
+      <string>tomcat</string>
+     </attribute>
+     <widget class="QTabWidget" name="tabWidget_2">
+      <property name="geometry">
+       <rect>
+        <x>-30</x>
+        <y>0</y>
+        <width>1101</width>
+        <height>751</height>
+       </rect>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="tab_18">
+       <attribute name="title">
+        <string>CVE-2020-1938</string>
+       </attribute>
+       <widget class="QLabel" name="label_74">
+        <property name="geometry">
+         <rect>
+          <x>55</x>
+          <y>10</y>
+          <width>41</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>ip地址:</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="lineEdit_tomcat_2020_1938_ip">
+        <property name="geometry">
+         <rect>
+          <x>110</x>
+          <y>10</y>
+          <width>571</width>
+          <height>21</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_75">
+        <property name="geometry">
+         <rect>
+          <x>700</x>
+          <y>12</y>
+          <width>60</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>port:</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="lineEdit_tomcat_2020_1938_port">
+        <property name="geometry">
+         <rect>
+          <x>740</x>
+          <y>10</y>
+          <width>91</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>8009</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_76">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>70</y>
+          <width>81</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>文件路径:</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="lineEdit_tomcat_2020_1938_file_path">
+        <property name="geometry">
+         <rect>
+          <x>110</x>
+          <y>70</y>
+          <width>571</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>/WEB-INF/web.xml</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_tomcat_2020_1938_read_file">
+        <property name="geometry">
+         <rect>
+          <x>690</x>
+          <y>65</y>
+          <width>111</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>读取</string>
+        </property>
+       </widget>
+       <widget class="QPlainTextEdit" name="plainTextEdit_tomcat_2020_1938_result">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>120</y>
+          <width>1041</width>
+          <height>631</height>
+         </rect>
+        </property>
+        <property name="readOnly">
+         <bool>true</bool>
+        </property>
+        <property name="plainText">
+         <string>ip:目标ip
+port:ajp协议端口，默认8009
+ip地址列表：仅供检测使用，当ip地址栏有值时，该部分失效
+文件路径:要读取或者执行的文件路径</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_77">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>40</y>
+          <width>71</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>ip地址列表:</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="lineEdit_tomcat_2020_1938_ip_list">
+        <property name="geometry">
+         <rect>
+          <x>110</x>
+          <y>40</y>
+          <width>571</width>
+          <height>21</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_tomcat_2020_1938_check">
+        <property name="geometry">
+         <rect>
+          <x>760</x>
+          <y>36</y>
+          <width>71</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>检测</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton_tomcat_2020_1938_select_file">
+        <property name="geometry">
+         <rect>
+          <x>690</x>
+          <y>36</y>
+          <width>71</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>选择</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="tab_17">
+       <attribute name="title">
+        <string>..</string>
+       </attribute>
+      </widget>
      </widget>
     </widget>
     <widget class="QWidget" name="tab_3">
