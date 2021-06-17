@@ -92,6 +92,7 @@ class Ui_MainWindow(object):
         self.comboBox_weblogic_bug.setGeometry(QtCore.QRect(73, 82, 153, 26))
         self.comboBox_weblogic_bug.setObjectName("comboBox_weblogic_bug")
         self.comboBox_weblogic_bug.addItem("")
+        self.comboBox_weblogic_bug.addItem("")
         self.label_3 = QtWidgets.QLabel(self.tab)
         self.label_3.setGeometry(QtCore.QRect(233, 84, 65, 18))
         self.label_3.setObjectName("label_3")
@@ -1015,7 +1016,7 @@ class Ui_MainWindow(object):
         MainWindow.setStatusBar(self.statusbar)
 
         self.retranslateUi(MainWindow)
-        self.tabWidget.setCurrentIndex(5)
+        self.tabWidget.setCurrentIndex(1)
         self.tabWidget_2.setCurrentIndex(0)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
@@ -1033,14 +1034,15 @@ class Ui_MainWindow(object):
         self.pushButton_windows_exe.setText(_translate("MainWindow", "执行"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_15), _translate("MainWindow", "Windows"))
         self.plainTextEdit_weblogic_result.setPlainText(_translate("MainWindow", "目前扫描支持：\n"
-"WeblogicConsole,CVE-2014-4210,CVE-2019-2725,CVE-2019-2729,CVE-2017-10271,CVE-2017-3506,CVE-2019-2618,CVE-2018-2894，CVE-2018-2628,CVE-2018-2893,CVE-2016-0638,CVE-2016-3510,CVE-2017-3248\n"
+"WeblogicConsole,CVE-2014-4210,CVE-2019-2725,CVE-2019-2729,CVE-2017-10271,CVE-2017-3506,CVE-2019-2618,CVE-2018-2894，CVE-2018-2628,CVE-2018-2893,CVE-2016-0638,CVE-2016-3510,CVE-2017-3248,CVE-2020-14882\n"
 "命令执行支持：\n"
-"CVE-2019-2725"))
+"CVE-2019-2725,CVE-2020-14882"))
         self.label.setText(_translate("MainWindow", "目标ip："))
         self.label_2.setText(_translate("MainWindow", "目标port："))
         self.pushButton_weblogic_start.setText(_translate("MainWindow", "start"))
         self.label_23.setText(_translate("MainWindow", "选择漏洞："))
         self.comboBox_weblogic_bug.setItemText(0, _translate("MainWindow", "CVE-2019-2725"))
+        self.comboBox_weblogic_bug.setItemText(1, _translate("MainWindow", "CVE-2020-14882"))
         self.label_3.setText(_translate("MainWindow", "执行命令："))
         self.pushButton_weblogic_exe.setText(_translate("MainWindow", "命令执行"))
         self.pushButton_weblogic_uploadshell.setText(_translate("MainWindow", "上传shell"))

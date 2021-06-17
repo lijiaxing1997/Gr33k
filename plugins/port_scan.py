@@ -21,6 +21,15 @@ class Port_Scan(QThread):
 
     def __init__(self,ip,ports,thread,ip_list):
         super().__init__()
+        self.Queue = queue.Queue()
+        self.ip_queue = queue.Queue()
+        self.ports = []
+        self.result = []
+        self.qsize = 0
+        self.sum_count = 0
+        self.count = 0
+        self.lock = threading.Lock()
+        self.ip = ''
         try:
             if ip_list == '':
                 try:

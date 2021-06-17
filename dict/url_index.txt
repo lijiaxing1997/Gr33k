@@ -1,4 +1,3 @@
-#脚本识别
 /webjsevent
 /robots.txt
 /index.htm
@@ -8,7 +7,6 @@
 /index.php
 /index.do
 /index.action
-#后台地址
 /dev/policy
 /admin
 /manage
@@ -17,7 +15,6 @@
 /dede
 /admin.php
 /admin.asp
-#乌云抓的常见漏洞url
 /adminop.php
 /cgi-bin/api/sb/hottest_news.cgi
 /fieldset
@@ -238,6 +235,7 @@
 /orderTouristPrintB.do
 /saleList.do
 /1.php
+/platform/index.html
 /handler/goodsearch/goodsearchhandler.ashx
 /webmanage/web_manage.asp
 /resetPassword/

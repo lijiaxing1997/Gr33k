@@ -111,6 +111,7 @@ class MyWindow(QMainWindow, Ui_MainWindow):
                 weblogic_scan.cve20192729.signal.connect(self.print_weblogic_result)
                 weblogic_scan.cve201710271.signal.connect(self.print_weblogic_result)
                 weblogic_scan.weblogiccosole.signal.connect(self.print_weblogic_result)
+                weblogic_scan.cve202014882.signal.connect(self.print_weblogic_result)
                 weblogic_scan.start()
                 weblogic_scan.exec()
             else:
@@ -475,11 +476,25 @@ class MyWindow(QMainWindow, Ui_MainWindow):
             delay = int(self.comboBox_xss_delay.currentText())
             skipdom = self.comboBox_xss_skipdom.currentText()
             data_request = self.plainTextEdit_xss_request.toPlainText().split('\n')
+            if 'http' not in data_request[0]:
+                self.print_xss_result('[-] 数据包缺少必要的主机名 (burp数据包应在copy url粘贴在url处,fiddler不需要)','red')
+                return
             request_dict = XSS.init_request_param(data_request)
             url = request_dict.url
             post_type = request_dict.post_param_type
             post_data = request_dict.post_param
-            headers = request_dict.other_header
+            old_headers = request_dict.other_header
+            cookie = ""
+            for key,value in request_dict.cookie.items():
+                cookie = cookie + key + '=' + value + ';'
+            headers = {
+                'cookie':cookie.strip()
+            }
+            # headers = {}
+            # for key,value in old_headers.items():
+            #     if 'Connection' in key:
+            #         headers['cookie'] = cookie.strip()
+            #     headers[key] = value
             if post_type == 'json':
                 jsonData = 'y'
             else:

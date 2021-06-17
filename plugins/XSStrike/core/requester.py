@@ -40,8 +40,8 @@ def requester(url, data, headers, GET, delay, timeout,signal=None):
             response = requests.post(url, json=data, headers=headers,
                                      timeout=timeout, verify=False, proxies=plugins.XSStrike.core.config.proxies)
         else:
-            response = requests.post(url, data=data, headers=headers,
-                                     timeout=timeout, verify=False, proxies=plugins.XSStrike.core.config.proxies)
+            response = requests.post(url=url,data=data,headers=headers, verify=False,timeout=timeout,proxies={'http':'http://127.0.0.1:8080'})
+            #response = requests.post(url, data=data, headers=headers,timeout=timeout, verify=False,proxies=plugins.XSStrike.core.config.proxies)
         return response
     except ProtocolError:
         logger.warning('WAF is dropping suspicious requests.')

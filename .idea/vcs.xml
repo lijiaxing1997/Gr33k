@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WeblogicScan" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/XSStrike" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/XSStrike" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tool/ysoserial" vcs="Git" />
   </component>
 </project>

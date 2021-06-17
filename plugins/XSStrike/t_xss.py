@@ -95,7 +95,7 @@ class XSS(QThread):
         plugins.XSStrike.core.config.wait = 0
         if type(self.arg.add_headers) == bool:
             headers = extractHeaders(prompt())
-        elif type(self.arg.add_headers) == str:
+        elif type(self.arg.add_headers) == dict:
             headers = self.arg.add_headers
         else:
             from plugins.XSStrike.core.config import headers

@@ -155,8 +155,9 @@ class Brute_ftp(QThread):
                 for password in f.readlines():
                     pas = password.strip('\n')
                     self.q_passwd.put(pas)
-        except FileNotFoundError:
-            self.str_signal[str, str].emit('[-] 没有找到密码的文件！', 'red')
+        except:
+            self.str_signal[str, str].emit('[-] 没有找到密码的文件或文件编码出错(接受utf8)！', 'red')
+            return
 
         thread_control = threading.Thread(target=self.control, args=(user_dict, pass_dict, thread_count,))
         thread_control.start()

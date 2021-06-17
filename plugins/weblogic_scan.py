@@ -10,6 +10,7 @@ from plugins.weblogic.CVE20192618 import CVE20192618
 from plugins.weblogic.CVE20192725 import CVE20192725
 from plugins.weblogic.CVE20192729 import CVE20192729
 from plugins.weblogic.CVE201710271 import CVE201710271
+from plugins.weblogic.CVE202014882 import CVE202014882
 from plugins.weblogic.WeblogicConsole import WeblogicCosole
 from PyQt5.Qt import QThread
 
@@ -31,6 +32,7 @@ class Weblogic_Scan(QThread):
         self.cve20192725 = CVE20192725(self.ip, self.port)
         self.cve20192729 = CVE20192729(self.ip, self.port)
         self.cve201710271 = CVE201710271(self.ip, self.port)
+        self.cve202014882 = CVE202014882(self.ip,self.port,'')
         self.weblogiccosole = WeblogicCosole(self.ip, self.port)
 
     def run(self):
@@ -47,3 +49,4 @@ class Weblogic_Scan(QThread):
         self.cve20192729.run()
         self.cve201710271.run()
         self.weblogiccosole.run()
+        self.cve202014882.run()

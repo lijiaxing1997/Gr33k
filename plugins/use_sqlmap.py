@@ -122,7 +122,7 @@ class Use_sqlmap(QThread):
         self.log = log
 
     def analyse_scan_result_data(self,data):
-        self.sysinfo_signal[str,str].emit("数据库类型: " + data['data'][1]['value'][0]['dbms'],'red')
+        self.sysinfo_signal[str,str].emit("数据库类型: " + str(data['data'][1]['value'][0]['dbms']),'red')
         self.sysinfo_signal[str, str].emit("数据库版本: " + str(data['data'][1]['value'][0]['dbms_version']),'red')
         self.sysinfo_signal[str, str].emit("操作系类型: " + str(data['data'][1]['value'][0]['os']),'red')
 

@@ -2,30 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc3dff6-2e95-4838-8b12-0849d80bcc95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/WeblogicScan/Weblogic.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeblogicScan/WeblogicScan.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeblogicScan/WeblogicScan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/arjun.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/arjun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/dom.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/dom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/filterChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/filterChecker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/fuzzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/fuzzer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/htmlParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/htmlParser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/jsContexter.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/jsContexter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/photon.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/photon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/prompt.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/prompt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test_qt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_qt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gr33k.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gr33k.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict/brute_username.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dict/brute_username.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict/url_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dict/url_index.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/requester.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/requester.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/updater.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/updater.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/core/wafDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/core/wafDetector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/modes/bruteforcer.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/modes/bruteforcer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/modes/crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/modes/crawl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/modes/scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/modes/scan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/modes/singleFuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/modes/singleFuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/plugins/retireJs.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/plugins/retireJs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/xsstrike.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/xsstrike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/XSStrike/t_xss.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/XSStrike/t_xss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/brute/Brute_ftp.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/brute/Brute_ftp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/port_scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/port_scan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/use_sqlmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/use_sqlmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/weblogic_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/weblogic_exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/weblogic_scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/weblogic_scan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogic_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/weblogic_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogic_gui.ui" beforeDir="false" afterPath="$PROJECT_DIR$/weblogic_gui.ui" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +31,11 @@
     <SUITE FILE_PATH="coverage/test_qt$unauthorized.coverage" NAME="unauthorized Coverage Results" MODIFIED="1583834292734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$t_xss.coverage" NAME="t_xss Coverage Results" MODIFIED="1577598831052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XSStrike" />
     <SUITE FILE_PATH="coverage/test_qt$pyshodan.coverage" NAME="pyshodan Coverage Results" MODIFIED="1577776037835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
-    <SUITE FILE_PATH="coverage/test_qt$url_scan.coverage" NAME="url_scan Coverage Results" MODIFIED="1577783778144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$CVE_2017_12149.coverage" NAME="CVE_2017_12149 Coverage Results" MODIFIED="1583214381665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/jbosslib" />
+    <SUITE FILE_PATH="coverage/test_qt$url_scan.coverage" NAME="url_scan Coverage Results" MODIFIED="1584346631337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1582622190423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_qt$WeblogicScan.coverage" NAME="WeblogicScan Coverage Results" MODIFIED="1575427223650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeblogicScan" />
-    <SUITE FILE_PATH="coverage/test_qt$Gr33k.coverage" NAME="Gr33k Coverage Results" MODIFIED="1584326426724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_qt$Gr33k.coverage" NAME="Gr33k Coverage Results" MODIFIED="1623937940642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_qt$login.coverage" NAME="login Coverage Results" MODIFIED="1575275082995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_qt$ssh_username1.coverage" NAME="ssh_username1 Coverage Results" MODIFIED="1578241701053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$weblogic_struts2_exp.coverage" NAME="weblogic_struts2_exp Coverage Results" MODIFIED="1584325684699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -51,6 +43,8 @@
     <SUITE FILE_PATH="coverage/test_qt$ssh_username.coverage" NAME="ssh_username Coverage Results" MODIFIED="1578236300996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$t_xss__1_.coverage" NAME="t_xss (1) Coverage Results" MODIFIED="1577607891150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/XSStrike" />
     <SUITE FILE_PATH="coverage/test_qt$main.coverage" NAME="main Coverage Results" MODIFIED="1575427216310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeblogicScan/app" />
+    <SUITE FILE_PATH="coverage/test_qt$CVE_2020_1938.coverage" NAME="CVE_2020_1938 Coverage Results" MODIFIED="1586304385032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/tomcatlib" />
+    <SUITE FILE_PATH="coverage/test_qt$CVE202014882.coverage" NAME="CVE202014882 Coverage Results" MODIFIED="1604300269865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/weblogic" />
     <SUITE FILE_PATH="coverage/test_qt$CVE20192618.coverage" NAME="CVE20192618 Coverage Results" MODIFIED="1575442059486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/weblogic" />
     <SUITE FILE_PATH="coverage/test_qt$xsstrike.coverage" NAME="xsstrike Coverage Results" MODIFIED="1577433749180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XSStrike" />
     <SUITE FILE_PATH="coverage/test_qt$pytest_in_test_xss_py.coverage" NAME="pytest in test_xss.py Coverage Results" MODIFIED="1577596565103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XSStrike" />
@@ -61,30 +55,18 @@
     <SUITE FILE_PATH="coverage/test_qt$first.coverage" NAME="first Coverage Results" MODIFIED="1575192031530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_qt$slowhttp.coverage" NAME="slowhttp Coverage Results" MODIFIED="1578307953511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$1.coverage" NAME="1 Coverage Results" MODIFIED="1575275088411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test_qt$use_sqlmap.coverage" NAME="use_sqlmap Coverage Results" MODIFIED="1583119092215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
-    <SUITE FILE_PATH="coverage/test_qt$struts2.coverage" NAME="struts2 Coverage Results" MODIFIED="1575454287965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
+    <SUITE FILE_PATH="coverage/test_qt$use_sqlmap.coverage" NAME="use_sqlmap Coverage Results" MODIFIED="1588163520728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
     <SUITE FILE_PATH="coverage/test_qt$Runtime_payload.coverage" NAME="Runtime_payload Coverage Results" MODIFIED="1583207558213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/jboss" />
     <SUITE FILE_PATH="coverage/test_qt$port_scan.coverage" NAME="port_scan Coverage Results" MODIFIED="1583834002527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
+    <SUITE FILE_PATH="coverage/test_qt$struts2.coverage" NAME="struts2 Coverage Results" MODIFIED="1584604421694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weblogic_struts2_exp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="887" selection-start-line="887" selection-end-line="887" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gr33k.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="925" selection-start-line="925" selection-end-line="925" />
+            <state relative-caret-position="283">
+              <caret line="117" column="47" lean-forward="true" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -93,10 +75,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/slowhttp.py">
+        <entry file="file://$PROJECT_DIR$/plugins/weblogic_scan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="666">
+              <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/weblogic_exe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9774">
+              <caret line="156" column="35" selection-start-line="156" selection-start-column="35" selection-end-line="156" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE202014882.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -105,10 +111,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/use_sqlmap.py">
+        <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE201710271.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4218">
-              <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
+            <state relative-caret-position="972">
+              <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/tomcat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -119,10 +137,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/unauthorized.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4180">
-              <caret line="226" selection-start-line="226" selection-end-line="226" />
+            <state relative-caret-position="3996">
+              <caret line="228" selection-start-line="228" selection-end-line="228" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/jboss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/struts2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2376">
+              <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,7 +193,6 @@
       <find>json</find>
       <find>Payload</find>
       <find>Vulnerable</find>
-      <find>requester</find>
       <find>recursive</find>
       <find>crawl</find>
       <find>skipDOM</find>
@@ -163,27 +203,25 @@
       <find>who</find>
       <find>diff.html</find>
       <find>unauth</find>
+      <find>strust</find>
+      <find>self.args</find>
+      <find>ajpResponse</find>
+      <find>log</find>
+      <find>xss</find>
+      <find>requester</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/plugins/XSStrike" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/generator.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/jsContexter.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/htmlParser.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/arjun.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/modes/singleFuzz.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/fuzzer.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/core/utils.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/core/wafDetector.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/core/requester.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/core/photon.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/modes/crawl.py" />
         <option value="$PROJECT_DIR$/plugins/XSStrike/core/config.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/modes/scan.py" />
         <option value="$PROJECT_DIR$/plugins/weblogic/CVE20144210.py" />
         <option value="$PROJECT_DIR$/plugins/weblogic/WeblogicConsole.py" />
         <option value="$PROJECT_DIR$/plugins/weblogic/CVE20182894.py" />
@@ -195,13 +233,10 @@
         <option value="$PROJECT_DIR$/plugins/weblogic/CVE20182893.py" />
         <option value="$PROJECT_DIR$/plugins/weblogic/CVE20192725.py" />
         <option value="$PROJECT_DIR$/plugins/weblogic/CVE20192729.py" />
-        <option value="$PROJECT_DIR$/plugins/XSStrike/t_xss.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/plugins/pyshodan.py" />
         <option value="$PROJECT_DIR$/plugins/ssh_username.py" />
         <option value="$PROJECT_DIR$/plugins/ssh_username1.py" />
-        <option value="$PROJECT_DIR$/plugins/url_scan.py" />
-        <option value="$PROJECT_DIR$/plugins/brute/Brute_ssh.py" />
         <option value="$PROJECT_DIR$/plugins/brute/Brute_ftp.py" />
         <option value="$PROJECT_DIR$/plugins/brute/Brute_mysql.py" />
         <option value="$PROJECT_DIR$/plugins/subdomain.py" />
@@ -216,12 +251,23 @@
         <option value="$PROJECT_DIR$/plugins/jbosslib/Runtime_payload.py" />
         <option value="$PROJECT_DIR$/plugins/jboss.py" />
         <option value="$PROJECT_DIR$/plugins/jbosslib/CVE_2017_12149.py" />
-        <option value="$PROJECT_DIR$/plugins/use_sqlmap.py" />
         <option value="$PROJECT_DIR$/plugins/slowhttp.py" />
-        <option value="$PROJECT_DIR$/plugins/port_scan.py" />
         <option value="$PROJECT_DIR$/plugins/unauthorized.py" />
         <option value="$PROJECT_DIR$/weblogic_struts2_exp.py" />
+        <option value="$PROJECT_DIR$/plugins/url_scan.py" />
+        <option value="$PROJECT_DIR$/plugins/struts2.py" />
+        <option value="$PROJECT_DIR$/plugins/brute/Brute_ssh.py" />
+        <option value="$PROJECT_DIR$/plugins/tomcatlib/CVE_2020_1938.py" />
+        <option value="$PROJECT_DIR$/plugins/tomcat.py" />
+        <option value="$PROJECT_DIR$/plugins/use_sqlmap.py" />
+        <option value="$PROJECT_DIR$/plugins/port_scan.py" />
+        <option value="$PROJECT_DIR$/plugins/XSStrike/t_xss.py" />
+        <option value="$PROJECT_DIR$/plugins/XSStrike/modes/scan.py" />
+        <option value="$PROJECT_DIR$/plugins/XSStrike/core/requester.py" />
+        <option value="$PROJECT_DIR$/plugins/weblogic_scan.py" />
         <option value="$PROJECT_DIR$/Gr33k.py" />
+        <option value="$PROJECT_DIR$/plugins/weblogic_exe.py" />
+        <option value="$PROJECT_DIR$/plugins/weblogic/CVE202014882.py" />
       </list>
     </option>
   </component>
@@ -256,7 +302,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -286,7 +332,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Gr33k">
-    <configuration name="CVE_2017_12149" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CVE202014882" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_qt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,12 +340,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins/jbosslib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins/weblogic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/jbosslib/CVE_2017_12149.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/weblogic/CVE202014882.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CVE_2020_1938" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_qt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins/tomcatlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/tomcatlib/CVE_2020_1938.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +398,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="port_scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="struts2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_qt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,7 +411,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/port_scan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/struts2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +420,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unauthorized" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="use_sqlmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_qt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,7 +433,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/unauthorized.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/use_sqlmap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,35 +442,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weblogic_struts2_exp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_qt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weblogic_struts2_exp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.Gr33k" />
+      <item itemvalue="Python.struts2" />
+      <item itemvalue="Python.CVE_2020_1938" />
+      <item itemvalue="Python.use_sqlmap" />
+      <item itemvalue="Python.CVE202014882" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Gr33k" />
-        <item itemvalue="Python.weblogic_struts2_exp" />
-        <item itemvalue="Python.unauthorized" />
-        <item itemvalue="Python.port_scan" />
-        <item itemvalue="Python.CVE_2017_12149" />
+        <item itemvalue="Python.CVE202014882" />
+        <item itemvalue="Python.use_sqlmap" />
+        <item itemvalue="Python.CVE_2020_1938" />
+        <item itemvalue="Python.struts2" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +542,56 @@
       <workItem from="1583915956867" duration="303000" />
       <workItem from="1583976054661" duration="9000" />
       <workItem from="1583991332777" duration="170000" />
-      <workItem from="1584324461375" duration="1368000" />
+      <workItem from="1584324461375" duration="2627000" />
+      <workItem from="1584346007482" duration="2059000" />
+      <workItem from="1584558042157" duration="261000" />
+      <workItem from="1584603016386" duration="2571000" />
+      <workItem from="1584994986201" duration="15000" />
+      <workItem from="1585075929264" duration="1767000" />
+      <workItem from="1585398369563" duration="105000" />
+      <workItem from="1585595079255" duration="196000" />
+      <workItem from="1585853874929" duration="3735000" />
+      <workItem from="1586275716803" duration="11313000" />
+      <workItem from="1586359270502" duration="597000" />
+      <workItem from="1586967668996" duration="435000" />
+      <workItem from="1587060990733" duration="683000" />
+      <workItem from="1587072386588" duration="212000" />
+      <workItem from="1588163510379" duration="541000" />
+      <workItem from="1588878326666" duration="358000" />
+      <workItem from="1588940487885" duration="403000" />
+      <workItem from="1588963508945" duration="391000" />
+      <workItem from="1589268770111" duration="16000" />
+      <workItem from="1589785332734" duration="2000" />
+      <workItem from="1589787454679" duration="149000" />
+      <workItem from="1589787946917" duration="3000" />
+      <workItem from="1590593545351" duration="798000" />
+      <workItem from="1594287769862" duration="845000" />
+      <workItem from="1594342062385" duration="410000" />
+      <workItem from="1594366657192" duration="4199000" />
+      <workItem from="1594370920616" duration="2788000" />
+      <workItem from="1595401874768" duration="471000" />
+      <workItem from="1596505656983" duration="1325000" />
+      <workItem from="1599205777405" duration="1249000" />
+      <workItem from="1599632647422" duration="84000" />
+      <workItem from="1599636684912" duration="361000" />
+      <workItem from="1599637388798" duration="259000" />
+      <workItem from="1602571174173" duration="350000" />
+      <workItem from="1602837149094" duration="350000" />
+      <workItem from="1602838441805" duration="383000" />
+      <workItem from="1604295950372" duration="4028000" />
+      <workItem from="1613576307172" duration="177000" />
+      <workItem from="1616226608398" duration="319000" />
+      <workItem from="1617105330279" duration="262000" />
+      <workItem from="1617254596215" duration="941000" />
+      <workItem from="1617269770211" duration="1467000" />
+      <workItem from="1617787997603" duration="3000" />
+      <workItem from="1618556357440" duration="236000" />
+      <workItem from="1618642526731" duration="299000" />
+      <workItem from="1619595775013" duration="331000" />
+      <workItem from="1621236603646" duration="465000" />
+      <workItem from="1621242559719" duration="1834000" />
+      <workItem from="1621700785419" duration="39000" />
+      <workItem from="1622773924947" duration="170000" />
     </task>
     <servers />
   </component>
@@ -523,19 +625,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235219000" />
+    <option name="totallyTimeSpent" value="286733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21611722" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22100122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19285715" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3102041" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29081634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3612245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -543,7 +645,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.17244898" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2632653" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -569,150 +671,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/modes/crawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/modes/scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="21" column="106" selection-start-line="21" selection-start-column="106" selection-end-line="21" selection-end-column="106" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/core/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic_scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20144210.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20160638.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="65" column="71" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20163510.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="66" column="71" selection-start-line="66" selection-start-column="71" selection-end-line="66" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20173248.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="69" column="71" selection-start-line="69" selection-start-column="71" selection-end-line="69" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20173506.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="59" column="70" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20182628.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="68" column="71" selection-start-line="68" selection-start-column="71" selection-end-line="68" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20182894.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20192618.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1501">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20192725.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="3521" column="71" selection-start-line="3521" selection-start-column="71" selection-end-line="3521" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE20192729.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="3553" column="71" selection-start-line="3553" selection-start-column="71" selection-end-line="3553" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE201710271.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic/WeblogicConsole.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dict/url_index.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -726,27 +684,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/PyQt5/QtWidgets/QAbstractItemView.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="326" column="8" selection-start-line="326" selection-start-column="8" selection-end-line="326" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/PyQt5/QtWidgets/QAbstractItemView.py" />
     <entry file="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages/paramiko/transport.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55971">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/t_xss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,20 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/weblogic_exe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/brute/Brute_ssh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weblogic_gui.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -853,34 +781,8 @@
     <entry file="file://$PROJECT_DIR$/dict/brute_password.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2831">
-          <caret line="149" column="31" selection-start-line="149" selection-start-column="31" selection-end-line="149" selection-end-column="31" />
-          <folding>
-            <element signature="e#9390#9403#0" expanded="true" />
-            <marker date="1578231114276" expanded="true" signature="10229:10259" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/url_scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/test2.py" />
     <entry file="file://$PROJECT_DIR$/plugins/jbosslib/Runtime_payload.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -891,58 +793,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/jboss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/jbosslib/CVE_2017_12149.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/apache_rce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/port_scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diff.html">
+    <entry file="file://$PROJECT_DIR$/diff.html" />
+    <entry file="file://$PROJECT_DIR$/weblogic_struts2_exp.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/windowslib/MS17010.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblogic_struts2_exp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="887" selection-start-line="887" selection-end-line="887" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins/slowhttp.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -954,10 +808,196 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/url_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/brute/Brute_ssh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2185">
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/tomcatlib/CVE_2020_1938.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="285" column="8" selection-start-line="285" selection-start-column="8" selection-end-line="285" selection-end-column="8" />
+          <folding>
+            <element signature="e#1#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/use_sqlmap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4218">
-          <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
+        <state relative-caret-position="4050">
+          <caret line="231" column="19" selection-start-line="240" selection-start-column="62" selection-end-line="240" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2066100795/PyQt5/QtCore/QThread.py" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/plugins/apache_rce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/jbosslib/CVE_2017_12149.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/core/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-974">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/t_xss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2196">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/core/requester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/port_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/exm.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/modes/scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/XSStrike/core/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="142" column="31" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/PyQt5/QtCore/QThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gr33k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="117" column="47" lean-forward="true" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/weblogic_scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/weblogic_exe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9774">
+          <caret line="156" column="35" selection-start-line="156" selection-start-column="35" selection-end-line="156" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE202014882.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/weblogic/CVE201710271.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/tomcat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" column="103" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -966,23 +1006,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins/unauthorized.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4180">
-          <caret line="226" selection-start-line="226" selection-end-line="226" />
+        <state relative-caret-position="3996">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/windowslib/MS17010.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gr33k.py">
+    <entry file="file://$PROJECT_DIR$/plugins/jboss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="925" selection-start-line="925" selection-end-line="925" />
+        <state>
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/struts2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>

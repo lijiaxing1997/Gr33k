@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="currentIndex">
-     <number>5</number>
+     <number>1</number>
     </property>
     <widget class="QWidget" name="tab_15">
      <attribute name="title">
@@ -193,9 +193,9 @@
       </property>
       <property name="plainText">
        <string>目前扫描支持：
-WeblogicConsole,CVE-2014-4210,CVE-2019-2725,CVE-2019-2729,CVE-2017-10271,CVE-2017-3506,CVE-2019-2618,CVE-2018-2894，CVE-2018-2628,CVE-2018-2893,CVE-2016-0638,CVE-2016-3510,CVE-2017-3248
+WeblogicConsole,CVE-2014-4210,CVE-2019-2725,CVE-2019-2729,CVE-2017-10271,CVE-2017-3506,CVE-2019-2618,CVE-2018-2894，CVE-2018-2628,CVE-2018-2893,CVE-2016-0638,CVE-2016-3510,CVE-2017-3248,CVE-2020-14882
 命令执行支持：
-CVE-2019-2725</string>
+CVE-2019-2725,CVE-2020-14882</string>
       </property>
      </widget>
      <widget class="QWidget" name="layoutWidget">
@@ -262,6 +262,11 @@ CVE-2019-2725</string>
       <item>
        <property name="text">
         <string>CVE-2019-2725</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CVE-2020-14882</string>
        </property>
       </item>
      </widget>
