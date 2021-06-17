@@ -22,6 +22,7 @@ sudo apt-get install python3-pyqt5
 为了方便，我为windows用户打包了一个可执行程序，因为依赖工具比较大，所以我将它放在了百度云盘上.  
 下载地址：<https://pan.baidu.com/s/18M5TfcjbemeqQH5zfkbzdA>  
  提取码：c7rr 
+ 很久没重新打包了，建议自己源码运行吧，网盘的这个bug估计不少。
 ### 目录结构
 - Gr33k.py 是本工具的入口文件。
 - dict 该目录存放了本工具自带的一些字典
